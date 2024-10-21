@@ -21,8 +21,6 @@ Let’s connect and build something awesome together! 🚀
 
 &nbsp;
 
-## Built With
-
 <div align="center">
   <table>
     <tr>
@@ -31,7 +29,6 @@ Let’s connect and build something awesome together! 🚀
       <td><strong>Databases</strong></td>
     </tr>
     <tr>
-      <!-- Front-End -->
       <td>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -42,8 +39,6 @@ Let’s connect and build something awesome together! 🚀
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
       </td>
-      
-      <!-- Back-End -->
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -51,8 +46,6 @@ Let’s connect and build something awesome together! 🚀
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </td>
-      
-      <!-- Databases -->
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
