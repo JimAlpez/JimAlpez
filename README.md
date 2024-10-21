@@ -9,6 +9,19 @@ Welcome to my GitHub! I'm passionate about web development, coding, and always e
 - 📫 How to reach me: <a href="mailto:jim.alpez06gmail.com">jim.alpez06gmail.com</a>
 - ⚡ Fun fact: When I'm not coding, you'll find me exploring the latest tech trends or tinkering with new app ideas.
 
-![Next.js Logo](https://cdn.worldvectorlogo.com/logos/next-js.svg)
-
 Let’s connect and build something awesome together! 🚀
+
+
+## Built With
+
+This section lists the major frameworks and libraries used in my projects:
+
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
