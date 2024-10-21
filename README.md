@@ -1,4 +1,4 @@
-<img scr="https://github.com/jimalpez/jimalpez/blob/8e72e351c65297143f4f656b264d4ec44e3377ab/image/Coding.gif" alt="GIF" />
+<img src="https://github.com/jimalpez/jimalpez/blob/8e72e351c65297143f4f656b264d4ec44e3377ab/image/Coding.gif" alt="GIF" />
 
 <div align="center">
 
