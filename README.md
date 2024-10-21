@@ -21,8 +21,6 @@ Let’s connect and build something awesome together! 🚀
 
 &nbsp;
 
-## Built With
-
 <div align="center">
   <table width="100%">
     <tr>
