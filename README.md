@@ -1,4 +1,4 @@
-<img scr="/image/Coding.gif" alt="GIF" />
+<img scr="image/Coding.gif" alt="GIF" />
 
 <div align="center">
 
