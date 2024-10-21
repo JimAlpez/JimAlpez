@@ -9,4 +9,5 @@ Welcome to my GitHub! I'm passionate about web development, coding, and always e
 - 📫 How to reach me: jim.alpez06gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you'll find me exploring the latest tech trends or tinkering with new app ideas.
-- Let’s connect and build something awesome together! 🚀
+
+Let’s connect and build something awesome together! 🚀
