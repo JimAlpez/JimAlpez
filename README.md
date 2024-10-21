@@ -72,9 +72,7 @@ Let’s connect and build something awesome together! 🚀
 ## 🎓 Certificates
 
 Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank">show</a> <br />
-
-React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a> <br />
-
+React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a><br />
 The Complete 2024 Web Development Bootcamp <a href="https://drive.google.com/file/d/1tjEqmxs-b8E0jWQP_VLAKM9iBh1mOGCS/view?usp=drive_link" target="_blank">show</a> <br />
 
 
