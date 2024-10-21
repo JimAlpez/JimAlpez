@@ -1,4 +1,4 @@
-<img src="https://github.com/jimalpez/jimalpez/blob/09bff7de673ecb9d972652b180141ee6f6c02231/image/My-work.gif" alt="GIF" />
+<img src="https://github.com/jimalpez/jimalpez/blob/09bff7de673ecb9d972652b180141ee6f6c02231/image/My-work.gif" alt="GIF" class="w-full" />
 
 <div align="center">
 
