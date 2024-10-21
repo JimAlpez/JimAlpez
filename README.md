@@ -1,3 +1,5 @@
+<img scr="" alt="GIF" />
+
 <div align="center">
 
 # Hi there 👋 I'm Jim Alpez
