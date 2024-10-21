@@ -71,8 +71,11 @@ Let’s connect and build something awesome together! 🚀
 
 ## ![certificate icon](https://img.icons8.com/ios-filled/50/ffffff/certificate.png) Certificates
 
+<p vertical-align="middle">
+  
 ![Udemy icon](https://img.icons8.com/color/48/000000/udemy.png)
 Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank"><img src="https://img.icons8.com/material-outlined/24/ffffff/external-link.png"/></a> <br />
+</p>
 
 ![Udemy icon](https://img.icons8.com/color/48/000000/udemy.png)
 React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank"><img src="https://img.icons8.com/material-outlined/24/ffffff/external-link.png"/></a> <br />
