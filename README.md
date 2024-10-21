@@ -2,7 +2,8 @@
 
 # Hi there 👋 I'm Jim Alpez
 
-#### Welcome to my GitHub! <br /> I'm passionate about web development, coding, and always excited to learn and explore new technologies.
+### Welcome to my GitHub!
+#### I'm passionate about web development, coding, and always excited to learn and explore new technologies.
 
 &nbsp;
 
