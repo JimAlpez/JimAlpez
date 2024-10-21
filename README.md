@@ -69,7 +69,7 @@ Let’s connect and build something awesome together! 🚀
 
 &nbsp;
 
-## 🎓 Certificates
+## 🎓 Certificates <img src="https://img.shields.io/badge/Udemy-A43527?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
 
 Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank">show</a> <br />
 React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a><br />
