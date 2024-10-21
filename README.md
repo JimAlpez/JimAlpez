@@ -71,8 +71,8 @@ Let’s connect and build something awesome together! 🚀
 
 ## 🎓 Certificates
 
-![Udemy icon](https://img.icons8.com/color/16/000000/udemy.png)
-Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank">show</a> <br />
+![Udemy icon](https://img.icons8.com/color/20/000000/udemy.png)
+Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank"><img src="https://img.icons8.com/material-outlined/18/ffffff/external-link.png"/></a> <br />
 
 React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a <br />
 
