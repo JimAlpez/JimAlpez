@@ -2,6 +2,8 @@
 
 # Hi there 👋 I'm Jim Alpez
 
+&nbsp;
+
 Welcome to my GitHub! I'm passionate about web development, coding, and always excited to learn and explore new technologies. Here’s a bit about me:
 
 </div>
