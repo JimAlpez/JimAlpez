@@ -17,6 +17,8 @@
 📫 How to reach me: <a href="mailto:jim.alpez06gmail.com">jim.alpez06gmail.com</a> <br />
 ⚡ Fun fact: When I'm not coding, you'll find me exploring the latest tech trends or tinkering with new app ideas. <br />
 
+&nbsp;
+
 Let’s connect and build something awesome together! 🚀
 
 &nbsp;
