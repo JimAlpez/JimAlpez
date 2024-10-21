@@ -69,11 +69,11 @@ Let’s connect and build something awesome together! 🚀
 
 &nbsp;
 
-#### 🎓 Completed Udemy Courses
+### 🎓 Completed Udemy Courses
 
-Next.js 14 & React - The Complete Guide <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank">show</a> <br />
-React - The Complete Guide 2023 (incl. React Router & Redux) <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a><br />
-The Complete 2024 Web Development Bootcamp <a href="https://drive.google.com/file/d/1tjEqmxs-b8E0jWQP_VLAKM9iBh1mOGCS/view?usp=drive_link" target="_blank">show</a> <br />
+<i>Next.js 14 & React - The Complete Guide</i> <a href="https://drive.google.com/file/d/1Ix7PQ1bCKnPewa8EonBaMpOdQSDmvVyw/view?usp=drive_link" target="_blank">show</a> <br />
+<i>React - The Complete Guide 2023 (incl. React Router & Redux)</i> <a href="https://drive.google.com/file/d/1gAO3P3SkNrs47IYQyYfYRUL-autw4ish/view?usp=drive_link" target="_blank">show</a><br />
+<i>The Complete 2024 Web Development Bootcamp</i> <a href="https://drive.google.com/file/d/1tjEqmxs-b8E0jWQP_VLAKM9iBh1mOGCS/view?usp=drive_link" target="_blank">show</a> <br />
 
 
 
