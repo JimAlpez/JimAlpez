@@ -32,7 +32,6 @@ Let’s connect and build something awesome together! 🚀
     <tr>
       <td width="33%" align="center"><strong>Front-End</strong></td>
       <td width="33%" align="center"><strong>Back-End</strong></td>
-      <td width="33%" align="center"><strong>Databases</strong></td>
     </tr>
     <tr>
       <td width="33%" align="center">
@@ -48,7 +47,6 @@ Let’s connect and build something awesome together! 🚀
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
       </td>
       <td width="33%" align="center">
@@ -58,17 +56,33 @@ Let’s connect and build something awesome together! 🚀
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
       </td>
+    </tr>
+  </table>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center"><strong>Databases</strong></td>
+      <td width="33%" align="center"><strong>CMS</strong></td>
+    </tr>
+    <tr>
       <td width="33%" align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+        <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+        <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+      </td>
     </tr>
   </table>
 </div>
-
-&nbsp;
 
 ### 🎓 Completed Udemy Courses
 
