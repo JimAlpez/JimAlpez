@@ -30,8 +30,8 @@ Let’s connect and build something awesome together! 🚀
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="33%" align="center"><strong>Front-End</strong></td>
-      <td width="33%" align="center"><strong>Back-End</strong></td>
+      <td width="33%" align="center"><strong>Frontend</strong></td>
+      <td width="33%" align="center"><strong>Backend</strong></td>
     </tr>
     <tr>
       <td width="33%" align="center">
